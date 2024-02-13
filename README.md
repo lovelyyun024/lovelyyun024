@@ -2,7 +2,7 @@
 ![to my Github Profile](https://github.com/lovelyyun024/lovelyyun024/assets/65863771/5c16b912-04ff-4d43-873a-e80f1692100c)
 
 
-<h1 align="center">Hey there 👋! I'm Esther Zhang!</h1>
+<h1 align="center">Hey there 👋! I'm Esther</h1>
 
 <p align="left">Hello! I'm Esther Zhang, a software engineer with a diverse background. I transitioned from technical consulting to software engineering, driven by a passion for building software. A coding bootcamp equipped me with skills in full-stack development, including JavaScript, Python, React, Redux, Express, databases, and RESTful APIs. With a distinctive combination of technical consulting and commitment to continuous learning, I bring a unique perspective to the realm of software engineering.</p> 
 
