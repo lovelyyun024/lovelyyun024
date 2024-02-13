@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋! I'm Esther Zhang!</h1>
-<p align="left">Hello! I'm Esther Zhang, a software engineer with a diverse background. I transitioned from tech consulting to software engineering, driven by a passion for building software. A coding bootcamp equipped me with skills in full-stack development, including JavaScript, Python, React, Redux, Express, databases, and RESTful APIs. I bring a unique blend of technical consulting expertise and a continuous learning mindset.</p> 
+<p align="left">Hello! I'm Esther Zhang, a software engineer with a diverse background. I transitioned from tech consulting to software engineering, driven by a passion for building software. A coding bootcamp equipped me with skills in full-stack development, including JavaScript, Python, React, Redux, Express, databases, and RESTful APIs. With a distinctive combination of technical consulting and commitment to continuous learning, I bring a unique perspective to the realm of software engineering.</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
