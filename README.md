@@ -1,15 +1,15 @@
 <h1 align="center">Hey there 👋! I'm Esther Zhang!</h1>
 <p align="left">Hello! I'm Esther Zhang, a software engineer with a diverse background. I transitioned from technical consulting to software engineering, driven by a passion for building software. A coding bootcamp equipped me with skills in full-stack development, including JavaScript, Python, React, Redux, Express, databases, and RESTful APIs. With a distinctive combination of technical consulting and commitment to continuous learning, I bring a unique perspective to the realm of software engineering.</p> 
 
+- 🌱 I’m currently learning **Django, Java**
+
+- 👨‍💻 All of my projects are available at [https://lovelyyun024.github.io](https://lovelyyun024.github.io)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/estherzhangg/">My LinkedIn</a>
+<a href="https://www.linkedin.com/in/estherzhangg/">LinkedIn</a>
 </p>
-<p align="left">
- <a href="https://lovelyyun024.github.io/index.html">My Portfolio Site</a>
-</p>
- <p>My Email: esther84424@gmail.com 
- </p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
